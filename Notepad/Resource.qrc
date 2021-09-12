@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/icons8-about-100.png</file>
+        <file>img/icons8-file-settings-100.png</file>
+        <file>img/icons8-new-copy-100.png</file>
+        <file>img/icons8-open-document-100.png</file>
+        <file>img/icons8-redo-100.png</file>
+        <file>img/icons8-save-100.png</file>
+        <file>img/icons8-save-as-100.png</file>
+        <file>img/icons8-undo-100.png</file>
+    </qresource>
+</RCC>
